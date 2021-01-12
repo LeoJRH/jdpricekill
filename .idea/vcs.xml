@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/leo/jd_seckill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leo/mathsys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leo/mathsys/Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leo/mathsys/hello-world" vcs="Git" />
+  </component>
+</project>

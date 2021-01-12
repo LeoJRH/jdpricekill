@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7681270a-5273-4fec-bdbd-2eb713ccad1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/GUIDE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/assembler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/examples/code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/examples/code2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/examples/code3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/examples/code4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Assembler/examples/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Binary Coefficients.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Blackjack Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Compression_Analysis/PSNR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Compression_Analysis/compressed_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Compression_Analysis/example_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Compression_Analysis/orignal_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/CountMillionCharacter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/CountMillionCharacters-2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/CountMillionCharacters-Variations/variation1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Counting-sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Credit_Card_Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Cricket_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Decimal_To_Binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/EncryptionTool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/FTP in python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Google_Image_Downloader/create_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Google_Image_Downloader/image_grapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Google_News.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/GroupSms_Way2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Guess_the_number_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Guessing_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Koch Curve/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Koch Curve/koch curve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Koch Curve/output_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Memory_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Merge-sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/MobiusFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Monitor Apache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/MySQL_Databses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Organise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/PONG_GAME.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/PORT SCANNER.PY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Palindrome_Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Polyline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Print_List_of_Even_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Print_List_of_Odd_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Program to print table of given number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/QuadraticCalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/ReadFromCSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Shivaansh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/SimpleCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/SimpleStopWatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Streaming Tweets from Twitter to Database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/TTS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/TicTacToe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Weather Scrapper/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Weather Scrapper/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/WikipediaModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/Wallpapers/desktop/89d49683c75888287b50ccb05cab960b991231639dabe5bc817e1d9395a39694.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/Wallpapers/desktop/acc15612b1c85619e06c584a52f6474242963dbb9fe315ec4ecd44de8f3702c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/Wallpapers/desktop/c1385a4022859c16bdf317e09668dbb3fc41a7e1c160605539abd1bcd29625af.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/Wallpapers/mobile/5678c6685841ab637cfa63b8c0e32ee205649af2051eb75f40b00f4d5a42b7b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/Wallpapers/mobile/a33845e422c7d1b668f60e53e942736c7bbc74299469b7df734254d28e026dc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/Wallpapers/mobile/e22f23869f500ee576cdc02fb83f911de31440d589e329d04576e571a54b8851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/Windows_Wallpaper_Script/wallpaper_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/XORcipher/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/XORcipher/XOR_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/async_downloader/async_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/async_downloader/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/backup_automater_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/bank_managment_system/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/bank_managment_system/frontend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/batch_file_rename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/brickout-game/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/brickout-game/brickout-game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/brickout-game/classDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/changemac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/chaos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/check_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/check_for_sqlite_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/check_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/check_internet_con.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/chicks_n_rabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/communication/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/communication/pipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/communication/socket_conn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/create_dir_if_not_there.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/cricket_live_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/daily_checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/dec_to_hex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/diceV2_dynamic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/dice_rolling_simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/dir_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/disregard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/env_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/ex20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/factorial_perm_comp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/factors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/fileinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/find_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/folder_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/four_digit_num_combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/ftp_send_receive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/game_of_life/game_o_life.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/game_of_life/sample.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/get_info_remoute_srv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/get_likes_on_FB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/get_youtube_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/helloworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/insta_monitering/con_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/insta_monitering/insta_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/insta_monitering/insta_datafetcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/insta_monitering/ipList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/insta_monitering/subpinsta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/internet_connection_py3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/jee_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/kmp_str_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/lanzhiwang_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/linear-algebra-python/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/linear-algebra-python/src/lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/linear-algebra-python/src/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/live_sketch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/logs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/magic8ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/meme_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/move_files_over_x_days.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/movie_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nDigitNumberCombinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/new_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nmap_scan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nodepad/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nodepad/img/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nodepad/notepad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nodepad/notepad_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nodepad/src/notepad.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/nslookup_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/osinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/other_pepole/get_ip_gui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/password_cracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/ping_servers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/ping_subnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/polygon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/portscanner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/powerdown_startup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/powerup_checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/primelib/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/primelib/primelib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/prison_break_scrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/prog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/pscheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/psunotify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/puttylogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/pythonVideoDownloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/python_sms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/random-sentences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/randomloadingmessage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/read_excel_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/rearrange-files/rearrange-files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/recyclebin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/replacetext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/rock_paper_scissor_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/rook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/sample.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/scrap_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/script_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/script_listing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/sendemail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/serial_scanner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/sha1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/sierpinski_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/site_health.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/socket-programming/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/socket-programming/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/socket-programming/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/spiralmatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/spotlight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/sqlite_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/sqlite_table_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/start-server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/tar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/testlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/tf_idf_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/thread_signal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/tik_tak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/timymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/tweeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/two_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/video-operations/slow-motion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/video-operations/timelapse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/webcam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/wiki_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/work_connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/write_excel_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/xkcd_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/youtube-downloader fast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leo/mathsys/Python/youtube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leo/jd_seckill/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/leo/jd_seckill/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leo/mathsys/hello-world/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leo/mathsys/hello-world/kio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leo/mathsys/hello-world/linear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leo/mathsys/hello-world/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leo/mathsys/hello-world/m-learn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leo/mathsys/hello-world/ti.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$try_params.coverage" NAME="try_params Coverage Results" MODIFIED="1551625447424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$geti.coverage" NAME="geti Coverage Results" MODIFIED="1551967850155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Pojie.coverage" NAME="Pojie Coverage Results" MODIFIED="1576061859191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$06_cookie.coverage" NAME="06-cookie Coverage Results" MODIFIED="1551710311358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1552137698379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$seletest.coverage" NAME="seletest Coverage Results" MODIFIED="1560256609082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$baiduT.coverage" NAME="baiduT Coverage Results" MODIFIED="1551968755320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$para_url.coverage" NAME="para_url Coverage Results" MODIFIED="1551790765943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leo" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$kio.coverage" NAME="kio Coverage Results" MODIFIED="1560256616779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/jd_seckill/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leo/jd_seckill/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/leo/jd_seckill" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/try_params.py" />
+        <option value="$PROJECT_DIR$/李毅-The1Page" />
+        <option value="$PROJECT_DIR$/06-cookie.py" />
+        <option value="$PROJECT_DIR$/leo/para_url.py" />
+        <option value="$PROJECT_DIR$/kio.json" />
+        <option value="$PROJECT_DIR$/kiooo.html" />
+        <option value="$PROJECT_DIR$/neihan.txt" />
+        <option value="$PROJECT_DIR$/geti.py" />
+        <option value="$PROJECT_DIR$/baiduT.py" />
+        <option value="$PROJECT_DIR$/text.html" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/seletest.py" />
+        <option value="$PROJECT_DIR$/para_url.py" />
+        <option value="$PROJECT_DIR$/kio.py" />
+        <option value="$PROJECT_DIR$/Pojie.py" />
+        <option value="$PROJECT_DIR$/leo/jd_seckill/timer.py" />
+        <option value="$PROJECT_DIR$/leo/jd_seckill/config.ini" />
+        <option value="$PROJECT_DIR$/jd_seckill-master/config.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="299" />
+    <option name="y" value="81" />
+    <option name="width" value="735" />
+    <option name="height" value="548" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="jd_seckill-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="leo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="leo" type="462c0819:PsiDirectoryNode" />
+              <item name="jd_seckill" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Pojie">
+    <configuration name="Pojie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pojie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baiduT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baiduT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seletest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seletest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Pojie" />
+        <item itemvalue="Python.kio" />
+        <item itemvalue="Python.seletest" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.baiduT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7681270a-5273-4fec-bdbd-2eb713ccad1e" name="Default Changelist" comment="" />
+      <created>1551624758507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551624758507</updated>
+      <workItem from="1551624759906" duration="19712000" />
+      <workItem from="1551968574933" duration="3043000" />
+      <workItem from="1552228542546" duration="60000" />
+      <workItem from="1560256024401" duration="2042000" />
+      <workItem from="1563712340548" duration="3407000" />
+      <workItem from="1564808809107" duration="4049000" />
+      <workItem from="1609242379584" duration="5832000" />
+      <workItem from="1609326650261" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38419000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="737" height="612" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27866474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32779098" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32985386" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/李毅-The1Page" />
+    <entry file="file://$PROJECT_DIR$/李毅-The2Page" />
+    <entry file="file://$PROJECT_DIR$/ojbk.html" />
+    <entry file="file://$PROJECT_DIR$/ojbk1.html" />
+    <entry file="file://$PROJECT_DIR$/kio.json" />
+    <entry file="file://$PROJECT_DIR$/../.pyenv/versions/3.6.5/lib/python3.6/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kiooo.html" />
+    <entry file="file://$PROJECT_DIR$/neihan.json" />
+    <entry file="file://$PROJECT_DIR$/neihan.txt" />
+    <entry file="file://$PROJECT_DIR$/做头发.txt" />
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/1801860742/lxml/etree/_ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="267" column="9" selection-start-line="267" selection-start-column="9" selection-end-line="267" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.html" />
+    <entry file="file://$PROJECT_DIR$/geti.py" />
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiduT.py" />
+    <entry file="file://$PROJECT_DIR$/para_url.py" />
+    <entry file="file://$PROJECT_DIR$/kio.py" />
+    <entry file="file://$PROJECT_DIR$/06-cookie.py" />
+    <entry file="file://$PROJECT_DIR$/seletest.py" />
+    <entry file="file://$PROJECT_DIR$/leo/mathsys/Python/check_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/mathsys/Python/Blackjack Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pojie.py" />
+    <entry file="file://$PROJECT_DIR$/try_params.py" />
+    <entry file="file://$PROJECT_DIR$/test.spec">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/exception.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/jd_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/qr_code.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/jd_spider_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="592" column="28" selection-start-line="592" selection-start-column="28" selection-end-line="592" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd_seckill-master/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="97" selection-start-line="3" selection-start-column="97" selection-end-line="3" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/jd_seckill/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
